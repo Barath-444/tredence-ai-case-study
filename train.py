@@ -59,7 +59,7 @@ GATE_LEARNING_RATE = 5e-3     # Set to 5e-3
 WEIGHT_DECAY    = 1e-4        # L2 regularisation on standard params
 DROPOUT_RATE    = 0.3
 SEED            = 42
-PRUNE_THRESHOLD = 0.05        # Set to 0.05 (Claude advice)
+PRUNE_THRESHOLD = 0.05        # Set to 0.05 
 
 # Paths
 DATA_DIR    = "./data"
